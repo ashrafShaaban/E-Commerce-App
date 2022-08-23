@@ -1,0 +1,13 @@
+.card-item{
+    display: inline-block;
+
+}
+.card-item .card{
+  left: 50%;
+  transform: translateX(-30%);
+}
+.card-item img{
+    width: 200px;
+    height: 200px;
+    
+}

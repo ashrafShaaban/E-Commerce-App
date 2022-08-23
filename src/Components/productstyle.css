@@ -1,0 +1,23 @@
+.product-style{
+    display: flex;
+}
+.product-style .two{
+    margin-left: 100px;
+}
+@media(max-width:576px){
+    .product-style .two {
+        margin-left: 0px;
+    }
+}
+
+@media(max-width:576px){
+    .product-style .one img{
+        width: 200px;
+        height: 150px;
+    }
+}
+@media(max-width:576px){
+    .product-style {
+        display: block;
+    }
+}

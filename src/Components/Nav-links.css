@@ -1,0 +1,8 @@
+.nav-links{
+    position: relative;
+    color: white;
+    z-index: 2;
+    display: flex;
+    padding: 15px;
+}
+
